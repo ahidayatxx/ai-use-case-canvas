@@ -40,8 +40,8 @@ The AI Use Case Canvas helps AI Product Managers, Data Scientists, and Business 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd ai-canvas
+git clone https://github.com/ahidayatxx/ai-use-case-canvas.git
+cd ai-use-case-canvas
 ```
 
 2. Install dependencies:
@@ -235,9 +235,13 @@ MIT License - see LICENSE file for details
 
 Built with modern web technologies for AI practitioners worldwide.
 
+## Live Demo
+
+🚀 **Live Application**: https://ahidayatxx.github.io/ai-use-case-canvas/
+
 ## Support
 
-For issues, questions, or contributions, please visit the [GitHub repository](https://github.com/yourusername/ai-canvas).
+For issues, questions, or contributions, please visit the [GitHub repository](https://github.com/ahidayatxx/ai-use-case-canvas).
 
 ---
 
