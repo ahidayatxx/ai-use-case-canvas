@@ -9,7 +9,7 @@ import { NotFound } from './pages/NotFound';
 function App() {
   return (
     <ErrorBoundary>
-      <BrowserRouter>
+      <BrowserRouter basename="/ai-use-case-canvas">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/dashboard" element={<Dashboard />} />
